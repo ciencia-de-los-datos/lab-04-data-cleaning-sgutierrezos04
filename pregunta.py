@@ -56,3 +56,4 @@ def clean_data():
     df = df.drop_duplicates()
 
     return df
+
